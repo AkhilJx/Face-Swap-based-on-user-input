@@ -13,7 +13,9 @@ Mediapipe and opencv are the main libraries used for the implementation of the p
 
 MediaPipe is an open-source framework under google used for building pipelines to perform computer vision inference over arbitrary sensory data such as video or audio. Using MediaPipe, such a perception pipeline can be built as a graph of modular components.
 
-Read more at: https://viso.ai/computer-vision/mediapipe/
+Read more at: 
+
+              https://viso.ai/computer-vision/mediapipe/
 
               https://developers.google.com/mediapipe/
 
