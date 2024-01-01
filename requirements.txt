@@ -1,2 +1,4 @@
-mediapipe
-opencv
+1. Python Version - v3.11
+2. mediapipe - v0.10.9
+3. opencv - v4.9.0.80
+4. numpy - v1.26.2
