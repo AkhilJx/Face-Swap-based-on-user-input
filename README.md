@@ -1,2 +1,42 @@
 # Face-Swap
 Realtime face-swap between various famous personalities based on user input
+
+Here, on running the face-swap.py, we an interfface as shown below, wherein the user have choose between the gender of the clebrities used.
+The user is given two options (1 and 2) to choose from the gender available. 1 is for male celebrities while 2 is for female celebrities.
+
+![image](https://github.com/AkhilJx/Face-Swap/assets/78065413/2360f2a0-25ab-4c54-97e0-4bdcbaf9e823)
+
+Based on the user input face swap will be performed.
+
+
+Mediapipe and opencv are the main libraries used for the implementation of the project.
+
+MediaPipe is an open-source framework under google used for building pipelines to perform computer vision inference over arbitrary sensory data such as video or audio. Using MediaPipe, such a perception pipeline can be built as a graph of modular components.
+
+Read more at: https://viso.ai/computer-vision/mediapipe/
+              https://developers.google.com/mediapipe/
+              https://github.com/google/mediapipe
+              https://pypi.org/project/mediapipe/
+              https://sefiks.com/2022/01/14/deep-face-detection-with-mediapipe/              
+
+https://mediapipe.readthedocs.io/en/latest/getting_started/python.html :  refer this link to get the code for various operations performed under mediapipe like 
+
+MediaPipe Face Detection
+MediaPipe Face Mesh
+MediaPipe Hands
+MediaPipe Holistic
+MediaPipe Objectron
+MediaPipe Pose
+MediaPipe Selfie Segmentation
+
+![image](https://github.com/AkhilJx/Face-Swap/assets/78065413/6155381e-c1fa-4dfb-9ff4-f922c5c95d9d)
+
+Sample Outputs:
+![image](https://github.com/AkhilJx/Face-Swap/assets/78065413/63570314-789a-46f5-863a-37102a2f376e)
+
+
+
+
+
+
+
