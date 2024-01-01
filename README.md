@@ -1,7 +1,7 @@
 # Face-Swap
 Realtime face-swap between various famous personalities based on user input
 
-Here, on running the face-swap.py, we an interfface as shown below, wherein the user have choose between the gender of the clebrities used.
+Here, on running the face-swap.py, we an interface as shown below, wherein the user have choose between the gender of the clebrities used.
 The user is given two options (1 and 2) to choose from the gender available. 1 is for male celebrities while 2 is for female celebrities.
 
 ![image](https://github.com/AkhilJx/Face-Swap/assets/78065413/2360f2a0-25ab-4c54-97e0-4bdcbaf9e823)
