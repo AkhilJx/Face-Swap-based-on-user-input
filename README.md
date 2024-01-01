@@ -44,8 +44,12 @@ MediaPipe Selfie Segmentation
 ![image](https://github.com/AkhilJx/Face-Swap/assets/78065413/6155381e-c1fa-4dfb-9ff4-f922c5c95d9d)
 
 Sample Outputs:
+
+1. 
 ![image](https://github.com/AkhilJx/Face-Swap/assets/78065413/63570314-789a-46f5-863a-37102a2f376e)
 
+2.
+![image](https://github.com/AkhilJx/Face-Swap/assets/78065413/c17a11b3-81f7-4bc6-8d1a-49f7645ceb34)
 
 
 
