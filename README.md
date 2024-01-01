@@ -27,19 +27,19 @@ Read more at:
 
 https://mediapipe.readthedocs.io/en/latest/getting_started/python.html :  refer this link to get the code for various operations performed under mediapipe like 
 
-MediaPipe Face Detection
+1. MediaPipe Face Detection
 
-MediaPipe Face Mesh
+2. MediaPipe Face Mesh
 
-MediaPipe Hands
+3. MediaPipe Hands
 
-MediaPipe Holistic
+4. MediaPipe Holistic
 
-MediaPipe Objectron
+5. MediaPipe Objectron
 
-MediaPipe Pose
+6. MediaPipe Pose
 
-MediaPipe Selfie Segmentation
+7. MediaPipe Selfie Segmentation   etc.....
 
 ![image](https://github.com/AkhilJx/Face-Swap/assets/78065413/6155381e-c1fa-4dfb-9ff4-f922c5c95d9d)
 
